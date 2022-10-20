@@ -1,4 +1,4 @@
-#include "1main.h"
+#include "main.h"
 
 /**
  * get_func - look for the specifier
